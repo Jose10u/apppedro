@@ -1,0 +1,11 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat
+*.fig.bak
+
+# Python temp files
+__pycache__/
+*.pyc
